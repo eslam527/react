@@ -1,0 +1,10 @@
+.leftLine,.rightLine{
+    width: 100px;
+    height: 3px;
+    background-color: #fff;
+}
+.home{
+    background-color: #1abc9c;
+    min-height: 70vh;
+
+}
